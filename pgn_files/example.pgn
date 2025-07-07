@@ -1,0 +1,23 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2025.06.26"]
+[Round "?"]
+[White "abdulmohsen_alsh"]
+[Black "lpluiss"]
+[Result "0-1"]
+[TimeControl "180+2"]
+[WhiteElo "1293"]
+[BlackElo "1327"]
+[Termination "lpluiss venceu por xeque-mate"]
+[ECO "A85"]
+[EndTime "14:45:07 GMT+0000"]
+[Link "https://www.chess.com/game/live/140030301076?move=0"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 g6 4. Bg5 Bg7 5. e3 O-O 6. Bd3 e6 7. Nf3 Nc6 8. O-O b6
+9. d5 Ne7 10. dxe6 dxe6 11. Bc2 Bb7 12. Qe2 Qe8 13. Rad1 Nc6 14. a3 e5 15. Nb5
+Rc8 16. e4 fxe4 17. Bxe4 Nxe4 18. Qxe4 Ba8 19. Qd5+ Kh8 20. Rfe1 Nd4 21. Rxe5
+Nxf3+ 22. gxf3 Bxe5 23. Bf6+ Bxf6 24. Qd2 Bxf3 25. Re1 Qf7 26. Qf4 Bc6 27. Nc3
+Bxc3 28. Qxf7 Rxf7 29. bxc3 Rcf8 30. Re2 Bf3 31. Rd2 Rf5 32. Rd7 Rg5+ 33. Kf1
+Bg2+ 34. Ke2 Re8+ 35. Kd2 Rf5 36. Rxc7 Rxf2+ 37. Kd3 Rf3+ 38. Kc2 Bf1 39. Kb3
+Rfe3 40. Rxa7 R3e7 41. Ra4 b5 42. cxb5 Bxb5 43. Rb4 Be2 44. Rb6 Bd1+ 45. Kb2
+Re2+ 46. Kc1 Ba4 47. c4 Ra2 48. c5 Re1# 0-1
