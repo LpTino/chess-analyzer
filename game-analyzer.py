@@ -10,8 +10,6 @@ Requisitos:
 - pip install chess stockfish python-chess
 - Stockfish engine instalado no sistema
 
-Autor: Claude (Anthropic)
-Data: 2025
 """
 
 import chess
@@ -49,7 +47,7 @@ class ChessAnalyzer:
                  critical_threshold: float = 2.0):
         """
         Inicializa o analisador
-        
+
         Args:
             stockfish_path: Caminho para o executável do Stockfish
             depth: Profundidade de análise
